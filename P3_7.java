@@ -1,3 +1,5 @@
+// Name :-Param Thumar
+// Roll-no :-21ce144
 interface P3_7
 {
     public void Details();
